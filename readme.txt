@@ -8,3 +8,6 @@ step 3: import the DATABASE dbmspro.sql into your localhost/phpmyadmin
 	then copy the sql in dbmspro.sql and paste it into your database sql and run
 step 4: after successfuly creating databse search in url: localhost/dbmspro
 step 5: then follow the other documentation that'll open as soon as you search
+
+(DBMS final project by Pabin B Dhami: ki college (II/I)
+roll:17
